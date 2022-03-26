@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "winter-joy-345304",
+  "private_key_id": "8a2fb3426175fcfedfbc8f3d3be4a213bee49d2c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/SnNUoJDldp8y\n3qj4/xsiO3qXPUMflnweua6TqMp0O2UCkZ/l/fZr50tanr5iC6HOb80Nn3LoWxd4\nYPNdQdaaeSq7PYiTfAXtCn2FFHyH/5mbD7VKaHMGsp5q9O+pVP8pgOqTjzZmtAH/\nUw/0dH05cqNF6pGfBqeCAs5sfn+VohDhhzz1nscJ8B5AS6x7YCD/FQoPCCq+PwEs\n1WsqcT5HtHIvcLDvXjlyDvIk7ajTpepHSJ6EKM27JWISQy9EbXEtGfCmoTz3aAOg\nsb0j/S2wg4HwC1PoLvIgrxik9F50HttVYkDbowiXem7SRVqDyv2jAu7crmRbFy3b\nOpukVqLPAgMBAAECggEAS8VqVJm7e2EW41gGV4b5UQB9aT3ngjIiHSuQxsWD2DGU\nq8VSMJB91TULiKw7nmucHsDzWNOReQ9oBxNkIssK/ipDrmJL4JuuXzwaByZbw6UP\ny7eXqI8iDQOgs54s9oaIAgEiKev+8QSZi/Dzb3HbDm/l07J8FyFUJbAF4zziPbsB\nE9ZBw64ApZmcCdvFbjznZu12jQ44r1Luof2T7TVuHjwwkPLQwKppGFpjP8L+Fnfq\nv5YhsyfCw//P0RMcCh0RHUH/AHG1VrBY6BTL+K9fSAuvQ92k1gq0qMO1cCa/5lpm\nGgzngYD4CO4qFaDb6w25RPBaKW4zpF54EGH9A6UaJQKBgQD83y6oNQE8m7324TNj\nvDyQ7XdslReU9PZj7P/eXGqEUngZbwbWKyu6+vp6do76QanpR3M7wHjukuxLqH0O\ndLGV9ImDQNVlN1XFfyIRGN7dHxdmHAAuU99+xrRQsY7aLY1U1k3EjaV23WPd2Ra/\n0pusvOi2GnKy4BuloP3KryRm6wKBgQDBqD93vEsdb18wobnfQgcKuRrgVlPBS3lm\nS/yGBvBA81qkqgixJqcq/qQ1O5bcCYLGL2vk9AsXbKLxX9vhrQPqx3sojhQXItyx\nmGkCa63R34BNUVwRgmL6tf+rnXYiAnO4KhfqtIkk0TxwdkVfwXHv7dAchwBXTlaf\npSaR1n3CrQKBgGMG/92NjGNw1k7VWGupbsqOxGL4bBjAabEuQfGRnYEeTrwfF71N\ngL2jxe2pekqU5nZdrcnrkTBUx0bFv9umZVlFP4jwHeGabvN92xh49eYAZAhv1L5P\nyEl8hWbIchoNFrjvh9r+YZsQDij1+Au87YwTGssdxmc4jnspddonBolrAoGAGA5b\nW/dS6WQlUfg1C6u7DjTyRr3Sh6dlfDSiOM/x1k+kieHpVIA1sdyR717onYq86PuJ\nDpbWLeG71/oNaVpBq09+WApWKo2VFqaVHMzdeb2mxXP+2Nn2i6hCC0JzI0RktZLd\nB7XHd4BaXqoCciOokKJdAL4wZ6f+kLRGN0WKt70CgYBnyOFVRuyxAVWwO01lk4WM\nNCFqK5UWYwpykzKgNmOPih5jeWzEv0ifxGUo2KPU365jrdC+RfNjQuqWcJn/vW75\nt8LkhtXjL+nfETzUG5UtrOOlQbwtywVjXJFAzpAu8xvXMb6yisgF/uArmf1Ap37C\nxP0GcV3e58qFouT++HajJA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "yelp-skill-test-api@winter-joy-345304.iam.gserviceaccount.com",
+  "client_id": "116842753850623848112",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yelp-skill-test-api%40winter-joy-345304.iam.gserviceaccount.com"
+}

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: YelpSkillTestAPI
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: local.81256356
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://spring.io/projects/spring-boot/YelpSkillTe
+ stAPI
+Created-By: Maven Integration for Eclipse
+
